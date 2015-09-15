@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\chapter1\chapter1\Quotation\bin\Debug\Quotation.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\Quotation\bin\Debug\Quotation.pdb
+C:\Users\eahscs\Desktop\chapter1\chapter1\Quotation\obj\x86\Debug\Quotation.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\Quotation\obj\x86\Debug\Quotation.pdb

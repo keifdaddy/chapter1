@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\chapter1\chapter1\chapter1\bin\Debug\chapter1.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\chapter1\bin\Debug\chapter1.pdb
+C:\Users\eahscs\Desktop\chapter1\chapter1\chapter1\obj\x86\Debug\chapter1.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\chapter1\obj\x86\Debug\chapter1.pdb
