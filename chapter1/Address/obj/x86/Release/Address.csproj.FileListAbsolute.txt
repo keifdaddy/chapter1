@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\chapter1\chapter1\Address\bin\Release\Address.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\Address\bin\Release\Address.pdb
+C:\Users\eahscs\Desktop\chapter1\chapter1\Address\obj\x86\Release\Address.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\Address\obj\x86\Release\Address.pdb

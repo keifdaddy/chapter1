@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\chapter1\chapter1\Burmashave\bin\Release\Burmashave.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\Burmashave\bin\Release\Burmashave.pdb
+C:\Users\eahscs\Desktop\chapter1\chapter1\Burmashave\obj\x86\Release\Burmashave.exe
+C:\Users\eahscs\Desktop\chapter1\chapter1\Burmashave\obj\x86\Release\Burmashave.pdb
